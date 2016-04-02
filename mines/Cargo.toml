@@ -1,0 +1,6 @@
+[package]
+name = "mines"
+version = "0.1.0"
+authors = ["Vincent Povirk <madewokherd@gmail.com>"]
+
+[dependencies]
